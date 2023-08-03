@@ -1,4 +1,4 @@
-# use- most CNN test
+# use- most CNN test for image
 
 1.U-net
 2.ASPP
